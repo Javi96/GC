@@ -1,0 +1,10 @@
+Aitor Cayón Ruano
+José Javier Cortés Tejada
+
+
+Animación (opcional): realizada.
+Foto (opcional): realizada. La foto está implementada como un rectángulo situado en la esquina superior derecha de la escena.
+
+Para ir a escena 2D pulsar 2.
+Para ir a escena 3D pulsar 3.
+Para parar/activar la actualización automática pulsar U.

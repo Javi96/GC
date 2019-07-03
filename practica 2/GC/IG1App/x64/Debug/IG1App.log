@@ -1,0 +1,30 @@
+﻿  Scene.cpp
+c:\users\usuario\desktop\ucm\máster\18-19\segundo cuatrimestre\gráficos por computador\prácticas\gc\ig1app\mesh.h(125): warning C4838: la conversión de 'int' en 'unsigned int' requiere una conversión de restricción
+c:\users\usuario\desktop\ucm\máster\18-19\segundo cuatrimestre\gráficos por computador\prácticas\gc\ig1app\scene.cpp(14): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+c:\users\usuario\desktop\ucm\máster\18-19\segundo cuatrimestre\gráficos por computador\prácticas\gc\ig1app\scene.cpp(62): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+main.obj : error LNK2019: símbolo externo __imp_glutInitWindowSize sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutInitDisplayMode sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutMainLoop sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutDestroyWindow sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutPostRedisplay sin resolver al que se hace referencia en la función "void __cdecl key(unsigned char,int,int)" (?key@@YAXEHH@Z)
+main.obj : error LNK2019: símbolo externo __imp_glutSwapBuffers sin resolver al que se hace referencia en la función "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: símbolo externo __imp_glutIdleFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutKeyboardFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutSpecialFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutReshapeFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutDisplayFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutMouseFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutMotionFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutGet sin resolver al que se hace referencia en la función "void __cdecl embaldosar(int)" (?embaldosar@@YAXH@Z)
+Texture.obj : error LNK2001: símbolo externo __imp_glutGet sin resolver
+main.obj : error LNK2019: símbolo externo __imp_glutGetModifiers sin resolver al que se hace referencia en la función "void __cdecl mouseWheel(int,int,int,int)" (?mouseWheel@@YAXHHHH@Z)
+main.obj : error LNK2019: símbolo externo __imp___glutInitWithExit sin resolver al que se hace referencia en la función glutInit_ATEXIT_HACK
+main.obj : error LNK2019: símbolo externo __imp___glutCreateWindowWithExit sin resolver al que se hace referencia en la función glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2019: símbolo externo __imp_glutLeaveMainLoop sin resolver al que se hace referencia en la función "void __cdecl key(unsigned char,int,int)" (?key@@YAXEHH@Z)
+main.obj : error LNK2019: símbolo externo __imp_glutMouseWheelFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutSetOption sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutInitContextVersion sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutInitContextFlags sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutInitContextProfile sin resolver al que se hace referencia en la función main
+C:\Users\Usuario\Desktop\UCM\MÁSTER\18-19\SEGUNDO CUATRIMESTRE\GRÁFICOS POR COMPUTADOR\PRÁCTICAS\GC\freeglut\lib\x86\freeglut.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\Usuario\Desktop\UCM\MÁSTER\18-19\SEGUNDO CUATRIMESTRE\GRÁFICOS POR COMPUTADOR\PRÁCTICAS\GC\bin\IG1AppDebug.exe : fatal error LNK1120: 23 externos sin resolver
